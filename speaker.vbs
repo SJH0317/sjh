@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak"knee gan ma~ haha aiyou"
