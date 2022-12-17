@@ -1,1 +1,1 @@
-CreateObject("SAPI.SpVoice").Speak"knee gan ma~ haha aiyou"
+CreateObject("SAPI.SpVoice").Speak"knee gan ma haha aiyou"
